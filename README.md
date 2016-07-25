@@ -1,6 +1,10 @@
 # Administração de Dados
 
-## Desenvolver um projeto com base em conceitos, técnicas e métodos para análise e projeto de sistemas de software, além de utilizar ferramentas CASE para modelagem e desenvolvimento de projetos.
+Repositório com os exercícios realizados em aula, além do plano de ensino da disciplina PJS. Essa página disponibiliza o código-fonte das atividades e todos os links para os slides apresentados, através dos quais os alunos podem interagir com comentários.
+
+## Objetivo
+
+Desenvolver um projeto com base em conceitos, técnicas e métodos para análise e projeto de sistemas de software. Além disso, prover a expertise para o uso de ferramentas CASE para modelagem e desenvolvimento de projetos.
 
 ## Conteúdo Programático
 
