@@ -1,4 +1,4 @@
-# Administração de Dados
+# Projeto de Sistemas
 
 Repositório com os exercícios realizados em aula, além do plano de ensino da disciplina PJS. Essa página disponibiliza o código-fonte das atividades e todos os links para os slides apresentados, através dos quais os alunos podem interagir com comentários.
 
