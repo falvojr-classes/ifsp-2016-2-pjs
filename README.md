@@ -9,7 +9,7 @@ Desenvolver um projeto com base em conceitos, técnicas e métodos para análise
 ## Conteúdo Programático
 
 1. [Introdução](https://docs.google.com/presentation/d/10c-oTivpq483amlPNvE8ZTDwLrSmrIpzgN5dw-wFBlk/edit?usp=sharing)
-2. Elicitação de Requisitos
+2. [Requisitos e Projeto] (https://docs.google.com/presentation/d/1SsDFSbdRudWAumBYz9XzyggrmH4hGOkrxxsv-XTr36Q/edit?usp=sharing)
 3. Unified Modeling Language (UML)
 4. Diagrama de Caso de Uso
 5. Diagrama de Atividade
