@@ -31,4 +31,7 @@ Em atenção ao interesse dos alunos para a realização de cursos livres, enume
 + [Unity3d Concepts](https://www.udemy.com/unity3d-concepts/): "Aprenda o básico para criar jogos 3D através do Unity 4.XX disponível no Unity3d".
 + [Make a Unity 2D Physics Game - For Beginners!](https://www.udemy.com/unity-2d-bouncing-and-sliding-with-physics/): "Aprenda os conceitos básicos para o desenvolvimento de jogos 2D baseados em física com Unity".
 + [Aprenda Construct2 - Como criar um jogo de plataforma 2D](https://www.udemy.com/aprenda-construct2-como-criar-um-jogo-de-plataforma-2d/): "Aprenda como criar um jogo de plataforma 2D ao estilo Super Mario de uma maneira super fácil e divertida".
+
+## Monetização
+
 + [Monetização em Games e Aplicativos Mobile](https://www.udemy.com/monetizacao-em-games-e-aplicativos-mobile/): "Entenda como maximizar a visibilidade e potencial de receita de seus apps e jogos mobile".
