@@ -25,3 +25,10 @@ Em atenção ao interesse dos alunos para a realização de cursos livres, enume
 
 + [Android Material Design Slidenerd Style](https://www.udemy.com/android-material-design-zero-to-hero/): nesse curso o instrutor explora profundamente o Material Design (padrão de design do Google), além dos componentes de softwares que permeiam a plataforma Android.
 + [Android Processes, Threads Slidenerd Style](https://www.udemy.com/master-android-zero-to-hero/): sequencia do curso anterior, nele conceitos mais avançados como Processos, Threads e Paralelismo são tratados. Com isso, você terá uma visão extremamente ampla da plataforma Android.
+
+## Games
+
++ [Unity3d Concepts](https://www.udemy.com/unity3d-concepts/): "Aprenda o básico para criar jogos 3D através do Unity 4.XX disponível no Unity3d".
++ [Make a Unity 2D Physics Game - For Beginners!](https://www.udemy.com/unity-2d-bouncing-and-sliding-with-physics/): "Aprenda os conceitos básicos para o desenvolvimento de jogos 2D baseados em física com Unity".
++ [Aprenda Construct2 - Como criar um jogo de plataforma 2D](https://www.udemy.com/aprenda-construct2-como-criar-um-jogo-de-plataforma-2d/): "Aprenda como criar um jogo de plataforma 2D ao estilo Super Mario de uma maneira super fácil e divertida".
++ [Monetização em Games e Aplicativos Mobile](https://www.udemy.com/monetizacao-em-games-e-aplicativos-mobile/): "Entenda como maximizar a visibilidade e potencial de receita de seus apps e jogos mobile".
