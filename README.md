@@ -17,6 +17,11 @@ Desenvolver um projeto com base em conceitos, técnicas e métodos para análise
 7. Diagrama de Classe
 8. Diagrama de Sequencia
 
+## Trabalhos
+
+1. [T1: Trabalho Preparatório para A1](https://docs.google.com/presentation/d/1tJt_SFrWehHscgnN6Lzm7HuEHLy6crEbWWySTDeL3BI/edit?usp=sharing)
+2. [T2: Trabalho Preparatório para A2]()
+
 # Extras
 
 Em atenção ao interesse dos alunos para a realização de cursos livres, enumerei algumas opções interessantes disponíveis na [Udemy](https://www.udemy.com/), uma renomada plataforma de ensino online com uma infinidade de cursos grátis, em sua maioria com certificados de conclusão.
