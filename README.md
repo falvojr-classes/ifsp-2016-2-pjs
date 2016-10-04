@@ -14,7 +14,7 @@ Desenvolver um projeto com base em conceitos, técnicas e métodos para análise
 4. [Diagrama de Caso de Uso](https://docs.google.com/presentation/d/1915wRocAUyKay4MKCmlQU6NN6P_TTtMSXilSngUgBfQ/edit?usp=sharing)
 5. [Diagrama de Atividade](https://docs.google.com/presentation/d/1JY7BlLHiuexJhf6TkMmxojT5dazjACNB4rZJZhYl1uM/edit?usp=sharing)
 6. [Orientação a Objetos Aplicada à UML](https://docs.google.com/presentation/d/1QClj8ogmaoccqKDvPrF5l0nDr22E3LPqQgNpNxbHC4I/edit?usp=sharing)
-7. Diagrama de Classe
+7. [Diagrama de Classe](https://docs.google.com/presentation/d/1c1-BhrjDyEJUoXBh8PHVEQPHs36d4lqdzYTGKKmc4FE/edit?usp=sharing)
 8. Diagrama de Sequencia
 
 ## Trabalhos
