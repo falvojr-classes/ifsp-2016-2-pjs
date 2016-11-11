@@ -20,7 +20,7 @@ Desenvolver um projeto com base em conceitos, técnicas e métodos para análise
 ## Trabalhos
 
 1. [T1: Trabalho Preparatório para A1](https://docs.google.com/presentation/d/1tJt_SFrWehHscgnN6Lzm7HuEHLy6crEbWWySTDeL3BI/edit?usp=sharing)
-2. T2: Trabalho Preparatório para A2 (em breve)
+2. [T2: Trabalho Preparatório para A2](https://docs.google.com/document/d/1dizVkEaYOli_Xo8gq9V-KrWxu7TwZZpEnkMlV4H63Kg/edit)
 
 # Extras
 
